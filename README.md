@@ -10,8 +10,7 @@ building things I want to exist.
 **[Claudette](https://github.com/taylorgibb/claudette)** is my first native
 Mac app. It pins an island over the notch showing your Claude Code usage
 limits: percent remaining at a glance, pace-ticked gauges on hover, and a
-cost page that prices your local session logs at API rates next to what
-your subscription costs.
+cost page that prices your local session logs at API rates.
 
 **[SlipSights](https://slipsights.ai)** is an informal market intelligence
 platform that creates a flywheel to keep your customers engaged while
