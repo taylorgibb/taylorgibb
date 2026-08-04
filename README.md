@@ -11,8 +11,8 @@ building things I want to exist.
 Mac app. It pins an island over the notch showing your Claude Code usage
 limits: percent remaining at a glance, pace-ticked gauges on hover, and a
 cost page that prices your local session logs at API rates next to what
-your subscription costs. Swift 6, no dependencies, free and MIT.
+your subscription costs.
 
-**[Slipsights](https://slipsights.ai)** is a platform for running betting
-slip competitions. Entries are judged automatically against each
-competition's rules, with duplicate detection and fraud checks built in.
+**[SlipSights](https://slipsights.ai)** is an informal market intelligence
+platform that creates a flywheel to keep your customers engaged while
+learning about their shopping habits.
