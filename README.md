@@ -15,3 +15,12 @@ cost page that prices your local session logs at API rates.
 **[SlipSights](https://slipsights.ai)** is an informal market intelligence
 platform that creates a flywheel to keep your customers engaged while
 learning about their shopping habits.
+
+<div>
+  <a href="https://commit-history.com/taylorgibb">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/taylorgibb?theme=dark" />
+      <img alt="taylorgibb's commit history" src="https://commit-history.com/embed/taylorgibb" />
+    </picture>
+  </a>
+</div>
