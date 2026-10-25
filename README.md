@@ -16,7 +16,7 @@ cost page that prices your local session logs at API rates.
 platform that creates a flywheel to keep your customers engaged while
 learning about their shopping habits.
 
-<div>
+<div align="center">
   <a href="https://commit-history.com/taylorgibb">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/taylorgibb?theme=dark" />
